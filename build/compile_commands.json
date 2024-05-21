@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/shiver/developer/projects/game-engine/build",
+  "command": "/usr/sbin/g++   -g -o CMakeFiles/GameEngine.dir/main.cpp.o -c /home/shiver/developer/projects/game-engine/main.cpp",
+  "file": "/home/shiver/developer/projects/game-engine/main.cpp",
+  "output": "CMakeFiles/GameEngine.dir/main.cpp.o"
+}
+]
