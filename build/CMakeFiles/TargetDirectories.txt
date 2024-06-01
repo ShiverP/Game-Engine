@@ -1,3 +1,0 @@
-/home/shiver/developer/projects/game-engine/build/CMakeFiles/GameEngine.dir
-/home/shiver/developer/projects/game-engine/build/CMakeFiles/edit_cache.dir
-/home/shiver/developer/projects/game-engine/build/CMakeFiles/rebuild_cache.dir
