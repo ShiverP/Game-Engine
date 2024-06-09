@@ -1,0 +1,18 @@
+# Ignore build files
+/build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Ignore editor files
+*.swp
+*.swo
+*.user
+.idea/
+.vscode/
